@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-06-04T14:13:53.9602637+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 479101159afe7aaa03f1c7ca670a618a3ba9bbc21e26863ce06d7e1803a96c2a
+    name: my-app
+    type: application
+    urls:
+    - https://prasuprasobh.github.io/test/my-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-06-04T14:13:53.9593878+05:30"
